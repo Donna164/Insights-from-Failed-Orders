@@ -9,6 +9,7 @@ Plot the average time to cancellation with and without driver, by the hour. If t
 Plot the distribution of average ETA by hours. How can this plot be explained?
 
 
-Project source: https://platform.stratascratch.com/data-projects/insights-failed-orders
+dataset source:
+[data_offers.csv](https://github.com/Donna164/Insights-from-Failed-Orders/files/9752036/data_offers.csv)[data_orders.csv](https://github.com/Donna164/Insights-from-Failed-Orders/files/9752037/data_orders.csv)
 
 Link visualization: https://public.tableau.com/app/profile/do.ngoc.anh/viz/gett_16648637580010/Story1
