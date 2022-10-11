@@ -10,4 +10,5 @@ Plot the distribution of average ETA by hours. How can this plot be explained?
 
 
 Project source: https://platform.stratascratch.com/data-projects/insights-failed-orders
+
 Link visualization: https://public.tableau.com/app/profile/do.ngoc.anh/viz/gett_16648637580010/Story1
